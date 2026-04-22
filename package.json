@@ -1,0 +1,11 @@
+{
+  "name": "turso-sync-benchmark",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "description": "Benchmarks comparing @libsql/client embedded replicas (sync) vs @tursodatabase/sync (push/pull)",
+  "dependencies": {
+    "@libsql/client": "^0.17.2",
+    "@tursodatabase/sync": "^0.5.3"
+  }
+}
